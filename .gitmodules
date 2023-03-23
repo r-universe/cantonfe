@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "sitree"]
+	path = sitree
+	url = https://github.com/cran/sitree
+	shallow = true
+	registered = true
+[submodule "sitreeE"]
+	path = sitreeE
+	url = https://github.com/cran/sitreeE
+	shallow = true
+	registered = true
